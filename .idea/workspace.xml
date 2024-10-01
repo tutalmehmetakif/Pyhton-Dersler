@@ -1,23 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c5e3323-49a7-4dbb-9da5-f0b3cbf8ba58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Pythonn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/İntegerAndFloat.py" afterDir="false" />
+    <list default="true" id="4c5e3323-49a7-4dbb-9da5-f0b3cbf8ba58" name="Changes" comment="Tam Sayı ve Ondalıklı Sayılar Gösterildi&#10;Ve Bunun type methodu ile hangi tipe sahip olunduğu anlatıldı">
+      <change afterPath="$PROJECT_DIR$/Matematiksel Operatörler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tutalmehmetakif"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tutalmehmetakif/Pyhton-Dersler.git",
+    "accountId": "76586bfb-4fc0-4e1e-9a79-abf4e688e1d6"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -31,6 +48,7 @@
   "keyToString": {
     "Python.İntegerAndFloat.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
@@ -51,6 +69,15 @@
       <option name="presentableId" value="Default" />
       <updated>1727779818111</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tam Sayı ve Ondalıklı Sayılar Gösterildi&#10;Ve Bunun type methodu ile hangi tipe sahip olunduğu anlatıldı">
+      <option name="closed" value="true" />
+      <created>1727780259416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727780259416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tam Sayı ve Ondalıklı Sayılar Gösterildi&#10;Ve Bunun type methodu ile hangi tipe sahip olunduğu anlatıldı" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tam Sayı ve Ondalıklı Sayılar Gösterildi&#10;Ve Bunun type methodu ile hangi tipe sahip olunduğu anlatıldı" />
   </component>
 </project>
